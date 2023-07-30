@@ -63,9 +63,6 @@ ___
 
 **Annotations:** ``@Entity``, ``@Table``, `` @Id``, ``@GeneratedValue``, ``@SequenceGenerator``, ``@TableGenerator``, ``@Column``, ``@ColumnDefault``,
 ``@Transient``
-
-**Task:** 
-- Implement rest of crud operations
 ___
 
 ## Session#4
@@ -80,9 +77,6 @@ ___
 
 
 **Annotations:** ``@ControllerAdvice``, ``@ExceptionHandler``
-
-**Task:** 
-- Search for swagger
 ___
 
 ## Session#5
@@ -104,8 +98,6 @@ ___
 - [JWT.io](https://jwt.io/)
 - [Spring Boot - Spring Security + JWT](https://www.youtube.com/watch?v=rBNOc4ymd1E)
 
-**Task:** 
-- Apply security to your project
 ___
 
 ## Session#7
@@ -128,9 +120,6 @@ ___
 - [Spring AOP Tutorial](https://www.youtube.com/playlist?list=PLE37064DE302862F8)
  
 **Annotations:** ``@EnableAspectJAutoProxy``, ``@Aspect``, ``@Order``, ``@Before``, ``@After``, ``@AfterReturning`` ,``@AfterThrowing``, ``@Around``, ``@Pointcut``
-
-**Task:** 
-- Search for MCD
 
 ___
 
@@ -156,9 +145,6 @@ ___
 - [Create Annotations](https://youtu.be/DkZr7_c9ry8)
 
 **Annotations:** ``@Target``, ``@Retention``
-
-**Task:**
-- Implement rest of hibernate functions (ADD / DELETE)
 ____
 
 ### Links:
