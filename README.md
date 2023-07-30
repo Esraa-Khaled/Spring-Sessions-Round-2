@@ -5,7 +5,6 @@
 - What means Web Application.
 - Web server Vs Application server.
 - WAR Vs JAR.
-- Maven.
 - Bootstrapping spring application.
 - Inversion Of Control.
 - Dependency Injection Using:
