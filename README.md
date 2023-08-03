@@ -45,3 +45,35 @@
 - Comparison between REST & SOAP.
 - Search for Bean Scopes.
 - Search for how to resolve the issue of dependency injection for multiple interface implementations using @Autowired.
+
+  ____
+
+## Session#2
+
+- web service (Rest & Soap) >> Rest Methods
+- Difference between N layer & N Tier Architecture
+- Consume Rest APIs (signIn)
+- Postman
+- Connect to database using JdbcTemplate
+- maven (generate runnable jar / generate documentation)
+- override system properties
+
+**Annotations:** ``@Controller``, ``@ResponseBody``, ``@RestController``, ``@RequestMethod``, ``@PathVariable``, ``@RequestParam``, ``@RequestHeader``, ``@GetMapping``, ``@PostMapping``, ``@Qualifier``
+
+-[DatabaseConnection](https://docs.oracle.com/cd/E19509-01/820-3497/agqka/index.html)
+
+**Installation:**
+- [postgres](https://www.postgresql.org/download/)
+- [pgadmin](https://www.pgadmin.org/download/)
+- [postman](https://www.postman.com/downloads/)
+
+___
+
+## Session#3
+
+- ORM
+- Hibernate
+- Table & Columns generation
+- ID generation strategies
+
+**Annotations:** ``@Entity``, ``@Table``, `` @Id``, ``@GeneratedValue``, ``@SequenceGenerator``, ``@TableGenerator``, ``@Column``, ``@ColumnDefault``, ``@Transient``, ``@Type``, ``@Lob``
