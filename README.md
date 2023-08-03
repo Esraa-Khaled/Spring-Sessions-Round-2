@@ -77,3 +77,6 @@ ___
 - ID generation strategies
 
 **Annotations:** ``@Entity``, ``@Table``, `` @Id``, ``@GeneratedValue``, ``@SequenceGenerator``, ``@TableGenerator``, ``@Column``, ``@ColumnDefault``, ``@Transient``, ``@Type``, ``@Lob``
+
+**Refrence:** 
+-[Spring Data JPA](https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#jpa.query.other-methods)
