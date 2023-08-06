@@ -80,3 +80,18 @@ ___
 
 **Refrence:** 
 -[Spring Data JPA](https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#jpa.query.other-methods)
+
+___
+
+## Session#4
+
+- Entity Relation Diagram
+- JPA Relations
+
+**Refrences:**
+- [Entity Relationship Diagram](https://youtu.be/CZ46r29kyQw)
+- [Hibernate/JPA One-to-Many Mappings](https://howtodoinjava.com/hibernate/hibernate-one-to-many-mapping/)
+- [Jackson – Bidirectional Relationships](https://www.baeldung.com/jackson-bidirectional-relationships-and-infinite-recursion)
+
+**Annotations:** ``@OneToMany``, ``@ManyToOne``, ``@JoinColumn``, ``@JsonManagedReference``, ``@JsonBackReference``, ``@JsonIgnore``
+
