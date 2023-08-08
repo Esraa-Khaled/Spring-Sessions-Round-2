@@ -95,3 +95,22 @@ ___
 
 **Annotations:** ``@OneToMany``, ``@ManyToOne``, ``@JoinColumn``, ``@JsonManagedReference``, ``@JsonBackReference``, ``@JsonIgnore``
 
+## Session#5
+
+- JPA Casede Opertions & Fetching Types
+- Response Entity
+- Global Exception Handeler
+
+**Refrences:**
+- [JPA Cascading Operations](https://www.javatpoint.com/jpa-cascading-operations)
+- [JPA FetchTypes](https://thorben-janssen.com/entity-mappings-introduction-jpa-fetchtypes/)
+- [Hibernate Fetch Type: Lazy or Eager?](https://medium.com/javarevisited/hibernate-a-silver-bullet-for-java-persistence-part-2-d803d653b591)
+- [Response Entity](https://www.baeldung.com/spring-response-entity)
+- [Spring Boot - Exception Handling](https://www.tutorialspoint.com/spring_boot/spring_boot_exception_handling.htm)
+- [Understanding Spring’s @ControllerAdvice](https://medium.com/@jovannypcg/understanding-springs-controlleradvice-cd96a364033f)
+
+**Annotations:**  ``@OneToOne`` , ``@ControllerAdvice``, ``@ExceptionHandler``
+
+**Task:** 
+- Implemet ERD(Entity Relation Diagram) For your system.
+- Search for swagger
