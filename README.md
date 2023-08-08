@@ -95,6 +95,8 @@ ___
 
 **Annotations:** ``@OneToMany``, ``@ManyToOne``, ``@JoinColumn``, ``@JsonManagedReference``, ``@JsonBackReference``, ``@JsonIgnore``
 
+  ____
+  
 ## Session#5
 
 - JPA Casede Opertions & Fetching Types
