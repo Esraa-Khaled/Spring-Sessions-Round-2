@@ -115,4 +115,16 @@ ___
 
 **Task:** 
 - Implemet ERD(Entity Relation Diagram) For your system.
-- Search for swagger
+- Search for swagger & Implment it on your project
+  
+## Session#8
+
+- Spring AOP
+
+**Links:**
+- [Spring AOP Tutorial](https://www.youtube.com/playlist?list=PLE37064DE302862F8)
+ 
+**Annotations:** ``@EnableAspectJAutoProxy``, ``@Aspect``, ``@Order``, ``@Before``, ``@After``, ``@AfterReturning`` ,``@AfterThrowing``, ``@Around``, ``@Pointcut``
+
+**Task**:
+- Search for MDC (Mapped Diagnostic Context)
