@@ -92,6 +92,7 @@ ___
 - [Entity Relationship Diagram](https://youtu.be/CZ46r29kyQw)
 - [Hibernate/JPA One-to-Many Mappings](https://howtodoinjava.com/hibernate/hibernate-one-to-many-mapping/)
 - [Jackson – Bidirectional Relationships](https://www.baeldung.com/jackson-bidirectional-relationships-and-infinite-recursion)
+- [Jackson Exceptions – Problems and Solutions](https://www.baeldung.com/jackson-exception)
 
 **Annotations:** ``@OneToMany``, ``@ManyToOne``, ``@JoinColumn``, ``@JsonManagedReference``, ``@JsonBackReference``, ``@JsonIgnore``
 
@@ -117,7 +118,7 @@ ___
 - Implemet ERD(Entity Relation Diagram) For your system.
 - Search for swagger & Implment it on your project
   
-## Session#8
+## Session#6
 
 - Spring AOP
 
