@@ -129,3 +129,25 @@ ___
 
 **Task**:
 - Search for MDC (Mapped Diagnostic Context)
+
+## Session#6
+
+- Spring Security using JWT
+
+**Links:**
+- [JWT.io](https://jwt.io/)
+- [Spring Boot - Spring Security + JWT]([https://www.youtube.com/watch?v=rBNOc4ymd1E](https://youtube.com/playlist?list=PLqq-6Pq4lTTYTEooakHchTGglSvkZAjnE&si=VbSOB6PnEOr_rLyR))
+
+**Task:** 
+- Apply security to your project
+___
+
+## Session#7
+
+- Many-To-Many Relationship in JPA (User&Roles)
+- Spring Security Basics
+
+**Links:**
+- [Spring Security Basics](https://www.baeldung.com/spring-security-method-security)
+
+**Annotations:** ``@ManyToMany``, ``@JoinTable``, ``@EnableWebSecurity``
