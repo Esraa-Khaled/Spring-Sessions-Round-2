@@ -130,7 +130,7 @@ ___
 **Task**:
 - Search for MDC (Mapped Diagnostic Context)
 
-## Session#6
+## Session#7
 
 - Spring Security using JWT
 
@@ -142,7 +142,7 @@ ___
 - Apply security to your project
 ___
 
-## Session#7
+## Session#8
 
 - Many-To-Many Relationship in JPA (User&Roles)
 - Spring Security Basics
@@ -151,3 +151,15 @@ ___
 - [Spring Security Basics](https://www.baeldung.com/spring-security-method-security)
 
 **Annotations:** ``@ManyToMany``, ``@JoinTable``, ``@EnableWebSecurity``
+
+
+## Session#9
+
+- Caching using Redis (Remote Dictionary Server)
+
+**Links:**
+- [Spring Data Redis as Cache](https://www.youtube.com/watch?v=AiNL1X-dhkc)
+- [The Guide to RestTemplate](https://www.baeldung.com/rest-template)
+- [Spring 5 WebClient](https://www.baeldung.com/spring-5-webclient)
+ 
+**Annotations:** ``@EnableCaching``, ``@Cacheable``, ``@CacheEvict``
