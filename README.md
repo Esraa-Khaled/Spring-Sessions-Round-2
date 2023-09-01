@@ -37,6 +37,7 @@
 - https://www.youtube.com/@amigoscode/playlists
 
 **If you need to understand the behind reson of basics check those channels:**
+  - https://www.youtube.com/@laurspilca/playlists
   - https://www.youtube.com/@SeleniumExpress/playlists
   - https://www.youtube.com/@Java.Brains/playlists?view=50&sort=dd&shelf_id=7
 
